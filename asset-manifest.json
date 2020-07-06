@@ -1,23 +1,45 @@
 {
   "files": {
     "main.css": "/Store-of-good-deeds/static/css/main.952c7b35.chunk.css",
-    "main.js": "/Store-of-good-deeds/static/js/main.2e8e1046.chunk.js",
-    "main.js.map": "/Store-of-good-deeds/static/js/main.2e8e1046.chunk.js.map",
+    "main.js": "/Store-of-good-deeds/static/js/main.6c257b5c.chunk.js",
+    "main.js.map": "/Store-of-good-deeds/static/js/main.6c257b5c.chunk.js.map",
     "runtime-main.js": "/Store-of-good-deeds/static/js/runtime-main.8c4c7783.js",
     "runtime-main.js.map": "/Store-of-good-deeds/static/js/runtime-main.8c4c7783.js.map",
     "static/js/2.3ce89db8.chunk.js": "/Store-of-good-deeds/static/js/2.3ce89db8.chunk.js",
     "static/js/2.3ce89db8.chunk.js.map": "/Store-of-good-deeds/static/js/2.3ce89db8.chunk.js.map",
     "index.html": "/Store-of-good-deeds/index.html",
-    "precache-manifest.9a9389770d1aee178ed825647493a71a.js": "/Store-of-good-deeds/precache-manifest.9a9389770d1aee178ed825647493a71a.js",
+    "precache-manifest.da3ca3051806c2996339f249c5f04e9a.js": "/Store-of-good-deeds/precache-manifest.da3ca3051806c2996339f249c5f04e9a.js",
     "service-worker.js": "/Store-of-good-deeds/service-worker.js",
     "static/css/main.952c7b35.chunk.css.map": "/Store-of-good-deeds/static/css/main.952c7b35.chunk.css.map",
     "static/js/2.3ce89db8.chunk.js.LICENSE.txt": "/Store-of-good-deeds/static/js/2.3ce89db8.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/Store-of-good-deeds/static/media/blanch_caps_inline-webfont.8345e1b3.ttf"
+    "static/media/1.jpg": "/Store-of-good-deeds/static/media/1.bd53c11c.jpg",
+    "static/media/2.jpg": "/Store-of-good-deeds/static/media/2.5c5b9b1a.jpg",
+    "static/media/3.jpg": "/Store-of-good-deeds/static/media/3.6c1b97e0.jpg",
+    "static/media/index.css": "/Store-of-good-deeds/static/media/blanch_caps_inline-webfont.8345e1b3.ttf",
+    "static/media/background.jpg": "/Store-of-good-deeds/static/media/background.48fb9707.jpg",
+    "static/media/crab.jpg": "/Store-of-good-deeds/static/media/crab.7ba1f45e.jpg",
+    "static/media/dog.svg": "/Store-of-good-deeds/static/media/dog.3f9c02aa.svg",
+    "static/media/grandma.svg": "/Store-of-good-deeds/static/media/grandma.3c0b5002.svg",
+    "static/media/hali.jpg": "/Store-of-good-deeds/static/media/hali.3759a77a.jpg",
+    "static/media/lobster.jpg": "/Store-of-good-deeds/static/media/lobster.6cc61937.jpg",
+    "static/media/mahi.jpg": "/Store-of-good-deeds/static/media/mahi.ac6dc5b6.jpg",
+    "static/media/mussels.jpg": "/Store-of-good-deeds/static/media/mussels.e7a23cf6.jpg",
+    "static/media/ngo.svg": "/Store-of-good-deeds/static/media/ngo.2ff2fb1b.svg",
+    "static/media/oysters.jpg": "/Store-of-good-deeds/static/media/oysters.07929a08.jpg",
+    "static/media/plug.svg": "/Store-of-good-deeds/static/media/plug.8531cd36.svg",
+    "static/media/prawns.jpg": "/Store-of-good-deeds/static/media/prawns.620ae9db.jpg",
+    "static/media/salmon.jpg": "/Store-of-good-deeds/static/media/salmon.a100f177.jpg",
+    "static/media/scallops.jpg": "/Store-of-good-deeds/static/media/scallops.10b56c13.jpg",
+    "static/media/sosed.svg": "/Store-of-good-deeds/static/media/sosed.bf69b2d9.svg",
+    "static/media/thanks.svg": "/Store-of-good-deeds/static/media/thanks.d63702ab.svg",
+    "static/media/traffic.svg": "/Store-of-good-deeds/static/media/traffic.f9cad5d7.svg",
+    "static/media/trash.svg": "/Store-of-good-deeds/static/media/trash.b40fc6fb.svg",
+    "static/media/tree.svg": "/Store-of-good-deeds/static/media/tree.a804f987.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8c4c7783.js",
     "static/js/2.3ce89db8.chunk.js",
     "static/css/main.952c7b35.chunk.css",
-    "static/js/main.2e8e1046.chunk.js"
+    "static/js/main.6c257b5c.chunk.js"
   ]
 }
