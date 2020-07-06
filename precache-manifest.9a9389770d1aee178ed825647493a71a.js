@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35ed494afc016a7ac6bb7442281fa48f",
+    "revision": "58f79f1757f21375feb96ea5905c7705",
     "url": "/Store-of-good-deeds/index.html"
   },
   {
-    "revision": "904bdc6c2c65158c0e7f",
+    "revision": "76ec6d685334d49674fb",
     "url": "/Store-of-good-deeds/static/css/main.952c7b35.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Store-of-good-deeds/static/js/2.3ce89db8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "904bdc6c2c65158c0e7f",
-    "url": "/Store-of-good-deeds/static/js/main.966738e8.chunk.js"
+    "revision": "76ec6d685334d49674fb",
+    "url": "/Store-of-good-deeds/static/js/main.2e8e1046.chunk.js"
   },
   {
     "revision": "40623026a9e843fba75f",

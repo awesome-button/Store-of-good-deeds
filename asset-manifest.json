@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Store-of-good-deeds/static/css/main.952c7b35.chunk.css",
-    "main.js": "/Store-of-good-deeds/static/js/main.966738e8.chunk.js",
-    "main.js.map": "/Store-of-good-deeds/static/js/main.966738e8.chunk.js.map",
+    "main.js": "/Store-of-good-deeds/static/js/main.2e8e1046.chunk.js",
+    "main.js.map": "/Store-of-good-deeds/static/js/main.2e8e1046.chunk.js.map",
     "runtime-main.js": "/Store-of-good-deeds/static/js/runtime-main.8c4c7783.js",
     "runtime-main.js.map": "/Store-of-good-deeds/static/js/runtime-main.8c4c7783.js.map",
     "static/js/2.3ce89db8.chunk.js": "/Store-of-good-deeds/static/js/2.3ce89db8.chunk.js",
     "static/js/2.3ce89db8.chunk.js.map": "/Store-of-good-deeds/static/js/2.3ce89db8.chunk.js.map",
     "index.html": "/Store-of-good-deeds/index.html",
-    "precache-manifest.6f0fe8bf8572fdfc53566f4513939686.js": "/Store-of-good-deeds/precache-manifest.6f0fe8bf8572fdfc53566f4513939686.js",
+    "precache-manifest.9a9389770d1aee178ed825647493a71a.js": "/Store-of-good-deeds/precache-manifest.9a9389770d1aee178ed825647493a71a.js",
     "service-worker.js": "/Store-of-good-deeds/service-worker.js",
     "static/css/main.952c7b35.chunk.css.map": "/Store-of-good-deeds/static/css/main.952c7b35.chunk.css.map",
     "static/js/2.3ce89db8.chunk.js.LICENSE.txt": "/Store-of-good-deeds/static/js/2.3ce89db8.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.8c4c7783.js",
     "static/js/2.3ce89db8.chunk.js",
     "static/css/main.952c7b35.chunk.css",
-    "static/js/main.966738e8.chunk.js"
+    "static/js/main.2e8e1046.chunk.js"
   ]
 }
