@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Store-of-good-deeds/static/css/main.4e74c35c.chunk.css",
+    "main.css": "/Store-of-good-deeds/static/css/main.952c7b35.chunk.css",
     "main.js": "/Store-of-good-deeds/static/js/main.966738e8.chunk.js",
     "main.js.map": "/Store-of-good-deeds/static/js/main.966738e8.chunk.js.map",
     "runtime-main.js": "/Store-of-good-deeds/static/js/runtime-main.8c4c7783.js",
@@ -8,16 +8,16 @@
     "static/js/2.3ce89db8.chunk.js": "/Store-of-good-deeds/static/js/2.3ce89db8.chunk.js",
     "static/js/2.3ce89db8.chunk.js.map": "/Store-of-good-deeds/static/js/2.3ce89db8.chunk.js.map",
     "index.html": "/Store-of-good-deeds/index.html",
-    "precache-manifest.5691147d25c8898fbe3e215b51bdc418.js": "/Store-of-good-deeds/precache-manifest.5691147d25c8898fbe3e215b51bdc418.js",
+    "precache-manifest.6f0fe8bf8572fdfc53566f4513939686.js": "/Store-of-good-deeds/precache-manifest.6f0fe8bf8572fdfc53566f4513939686.js",
     "service-worker.js": "/Store-of-good-deeds/service-worker.js",
-    "static/css/main.4e74c35c.chunk.css.map": "/Store-of-good-deeds/static/css/main.4e74c35c.chunk.css.map",
+    "static/css/main.952c7b35.chunk.css.map": "/Store-of-good-deeds/static/css/main.952c7b35.chunk.css.map",
     "static/js/2.3ce89db8.chunk.js.LICENSE.txt": "/Store-of-good-deeds/static/js/2.3ce89db8.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Store-of-good-deeds/static/media/blanch_caps_inline-webfont.8345e1b3.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.8c4c7783.js",
     "static/js/2.3ce89db8.chunk.js",
-    "static/css/main.4e74c35c.chunk.css",
+    "static/css/main.952c7b35.chunk.css",
     "static/js/main.966738e8.chunk.js"
   ]
 }

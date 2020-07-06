@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06ee69ac89eb173000479d8b85d4f6ea",
+    "revision": "35ed494afc016a7ac6bb7442281fa48f",
     "url": "/Store-of-good-deeds/index.html"
   },
   {
-    "revision": "b584bb5f90526658abb2",
-    "url": "/Store-of-good-deeds/static/css/main.4e74c35c.chunk.css"
+    "revision": "904bdc6c2c65158c0e7f",
+    "url": "/Store-of-good-deeds/static/css/main.952c7b35.chunk.css"
   },
   {
     "revision": "59c0e4c332f098779786",
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Store-of-good-deeds/static/js/2.3ce89db8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b584bb5f90526658abb2",
+    "revision": "904bdc6c2c65158c0e7f",
     "url": "/Store-of-good-deeds/static/js/main.966738e8.chunk.js"
   },
   {
     "revision": "40623026a9e843fba75f",
     "url": "/Store-of-good-deeds/static/js/runtime-main.8c4c7783.js"
+  },
+  {
+    "revision": "bd53c11cc9d5a225feacd00201a4264f",
+    "url": "/Store-of-good-deeds/static/media/1.bd53c11c.jpg"
   },
   {
     "revision": "0fce6d85ecbbf3d97e0d848824454600",

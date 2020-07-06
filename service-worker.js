@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Store-of-good-deeds/precache-manifest.5691147d25c8898fbe3e215b51bdc418.js"
+  "/Store-of-good-deeds/precache-manifest.6f0fe8bf8572fdfc53566f4513939686.js"
 );
 
 self.addEventListener('message', (event) => {
